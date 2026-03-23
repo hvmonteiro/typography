@@ -27,7 +27,7 @@ Some of the most relevant are: heading auto-numbering, dark mode, color palettes
 
 If you use the theme or found it useful you can support me by leaving a star ⭐ to Typography's Github repository.
 
-[Contributions](https://github.com/hvmonteiro/typography/blob/master/CONTRIBUTING.md) are always welcome, feel free to open issues and PRs with fixes or new features.
+Contributions are always welcome, feel free to open issues and PRs with fixes or new features.
 
 ## 3 Typo Users
 
