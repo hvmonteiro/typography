@@ -1,5 +1,5 @@
-![banner](https://raw.githubusercontent.com/hvmonteiro/typography/main/images/banner-light.png#gh-light-mode-only)
-![banner](https://raw.githubusercontent.com/hvmonteiro/typography/main/images/banner-dark.png#gh-dark-mode-only)
+![banner](https://raw.githubusercontent.com/hvmonteiro/typography/master/images/banner-light.png#gh-light-mode-only)
+![banner](https://raw.githubusercontent.com/hvmonteiro/typography/master/images/banner-dark.png#gh-dark-mode-only)
 
 # # Typography, a Hugo theme.
 
@@ -7,15 +7,15 @@ Typography theme is created by [Hugo Monteiro](https://github.com/hvmonteiro/), 
 
 **Homepage**
 
-![Homepage](https://raw.githubusercontent.com/hvmonteiro/typography/main/images/homepage.png)
+![Homepage](https://raw.githubusercontent.com/hvmonteiro/typography/master/images/homepage.png)
 
 **Articles**
 
-![Article 1](https://raw.githubusercontent.com/hvmonteiro/typography/main/images/article1.png)
+![Article 1](https://raw.githubusercontent.com/hvmonteiro/typography/master/images/article1.png)
 
-![Article 2](https://raw.githubusercontent.com/hvmonteiro/typography/main/images/article2.png)
+![Article 2](https://raw.githubusercontent.com/hvmonteiro/typography/master/images/article2.png)
 
-![List of Articles](https://raw.githubusercontent.com/hvmonteiro/typography/main/images/screenshot.png)
+![List of Articles](https://raw.githubusercontent.com/hvmonteiro/typography/master/images/screenshot.png)
 
 ## 1 Wiki
 
@@ -27,11 +27,11 @@ Some of the most relevant are: heading auto-numbering, dark mode, color palettes
 
 If you use the theme or found it useful you can support me by leaving a star ⭐ to Typography's Github repository.
 
-[Contributions](https://github.com/hvmonteiro/typography/blob/main/CONTRIBUTING.md) are always welcome, feel free to open issues and PRs with fixes or new features.
+[Contributions](https://github.com/hvmonteiro/typography/blob/master/CONTRIBUTING.md) are always welcome, feel free to open issues and PRs with fixes or new features.
 
 ## 3 Typo Users
 
-If you're using Typography for your website, feel free to add your website to [the list](https://github.com/hvmonteiro/typography/blob/main/USERS.md) alongside what you do.
+If you're using Typography for your website, feel free to add your website to [the list](https://github.com/hvmonteiro/typography/blob/master/USERS.md) alongside what you do.
 
 ## 4 Questions or ideas?
 
