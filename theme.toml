@@ -1,0 +1,38 @@
+name = 'Typo'
+license = 'MIT'
+licenselink = 'https://github.com/hvmonteiro/typography/blob/main/LICENSE'
+description = 'A simple Hugo theme with image support'
+
+homepage = 'https://github.com/hvmonteiro/typography'
+
+demosite = 'https://hvmonteiro.github.com/hugovmonteiro.net'
+
+tags = [
+    "responsive",
+    "simple",
+    "clean",
+    "light",
+    "dark",
+    "blog",
+    "minimal",
+    "personal",
+    "portfolio",
+    "images",
+]
+
+features = [
+    "responsive",
+    "blog",
+    "table-of-contents",
+    "highlight.js",
+    "favicon",
+    "social-icons",
+    "minified-assets",
+    "dark-light-images",
+    "color-palettes",
+    "images",
+]
+
+[author]
+name = 'Hugo Monteiro'
+homepage = 'https://hvmonteiro.github.com/hugovmonteiro.net'
